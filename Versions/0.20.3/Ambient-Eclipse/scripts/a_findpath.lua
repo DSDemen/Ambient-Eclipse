@@ -1,5 +1,5 @@
-local BFS3D = load_script('matrixpath:scripts/BFS3D.lua')
-local BFS2D = load_script('matrixpath:scripts/BFS2D.lua')
+local BFS3D = load_script('Ambient-Eclipse:scripts/BFS3D.lua')
+local BFS2D = load_script('Ambient-Eclipse:scripts/BFS2D.lua')
 local MatrixPath = {}
 
 local function tbl_reverse(tbl)
