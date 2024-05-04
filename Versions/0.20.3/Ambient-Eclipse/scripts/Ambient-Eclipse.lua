@@ -4,8 +4,8 @@ local pID = 1
 local defstate = 0
 
 
-function on_interact(x, y, z, pID)
+function on_world_open()
 
     oper.openhud(Cheat)
-    
+
 end
